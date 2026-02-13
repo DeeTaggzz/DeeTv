@@ -32,7 +32,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="KAPATID HD" tvg-name="KAPATID HD" tvg-logo="https://i.imgur.com/BUVWBm2.png" group-title="Cignal",KAPATID HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -222,12 +222,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/channelnewsasia/default/in
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
-#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Cignal",CNN HD
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Cignal", CNN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="CRIME INVESTIGATION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Cignal",CRIME INVESTIGATION
 #KODIPROP:inputstream=inputstream.adaptive
