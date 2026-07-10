@@ -14,7 +14,6 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
 
-
 #EXTINF:-1 group-title="Cignal" tvg-id="GMA 7" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -36,13 +35,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
 #EXTINF:-1 tvg-id="RPTV" tvg-name="RPTV" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Cignal",RPTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb5
-https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="KAPATID HD" tvg-name="KAPATID HD" tvg-logo="https://i.imgur.com/BUVWBm2.png" group-title="Cignal",KAPATID HD
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:19:46:49&stream=901328&extension=ts
+http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="KAPATID 2 HD" tvg-name="KAPATID HD" tvg-logo="https://i.imgur.com/BUVWBm2.png" group-title="Cignal",KAPATID 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -54,15 +47,15 @@ https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba//default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="PBA RUSH" tvg-name="PBA RUSH" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Cignal",PBA RUSH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="CELESTIAL MOVIE PINOY" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Cignal",CELESTIAL MOVIE PINOY
 #KODIPROP:inputstream=inputstream.adaptive
@@ -101,7 +94,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
 https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 
