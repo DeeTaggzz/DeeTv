@@ -91,11 +91,11 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v8
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 
 #EXTINF:-1 tvg-id="ABC AUSTRALIA" tvg-name="ABC AUSTRALIA" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Cignal",ABC AUSTRALIA
+https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
-https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="Cignal",ALJAZEERA
 #KODIPROP:inputstream=inputstream.adaptive
