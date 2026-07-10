@@ -841,6 +841,12 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/DeeTaggzz/DeeTv/main/World%20TV%20logo%20with%20globe%20icon.png"
 
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",Cinemo! Global
+http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
+https://amg18481-amg18481c1-amgplt0.../amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
 #EXTINF:-1 group-title="World TV" tvg-id="Grandstand Sports Plus" tvg-logo="https://i.imgur.com/qx0IGXg.png" ,Astro Sports Plus
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
